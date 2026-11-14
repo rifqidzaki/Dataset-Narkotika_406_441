@@ -53,7 +53,7 @@ Dataset ini dapat dimanfaatkan untuk berbagai keperluan penelitian di bidang:
 
 > **Mata Kuliah:** Temu Kembali Informasi (TKI)  
 > **Dosen Pengampu:** Galih W. W  
-> **Semester / Kelas:** 7 / A, D  
+> **Semester / Kelas:** 7 / D  
 > **Tahun Ajaran:** Semester Ganjil 2026/2027
 
 ---
