@@ -2,7 +2,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Coat_of_arms_of_the_Supreme_Court_of_the_Republic_of_Indonesia.svg/200px-Coat_of_arms_of_the_Supreme_Court_of_the_Republic_of_Indonesia.svg.png" alt="Logo MA RI" width="120">
 </p>
 
-<h1 align="center">📚 Dataset Putusan Pengadilan — Narkotika & Psikotropika</h1>
+<h1 align="center">📚 Dataset-Narkotika_441_406</h1>
+<h3 align="center">Dataset Putusan Pengadilan — Narkotika & Psikotropika</h3>
 
 <p align="center">
   <strong>Pengadilan Negeri Jember (PN Jmr)</strong><br>
@@ -76,7 +77,7 @@ Seluruh dokumen putusan bersumber dari **Direktori Putusan Mahkamah Agung Republ
 ## 📁 Struktur Repository
 
 ```
-Dataset-Narkotika_XXX_YYY/
+Dataset-Narkotika_441_406/
 │
 ├── 📂 Dataset/
 │   └── Narkotika.zip              # Arsip berisi 5 dokumen putusan (.pdf)
@@ -157,8 +158,8 @@ Dataset-Narkotika_XXX_YYY/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/<username>/Dataset-Narkotika_XXX_YYY.git
-cd Dataset-Narkotika_XXX_YYY
+git clone https://github.com/<username>/Dataset-Narkotika_441_406.git
+cd Dataset-Narkotika_441_406
 ```
 
 ### 2. Ekstrak Dataset
@@ -242,3 +243,4 @@ Dataset ini bersumber dari dokumen publik Mahkamah Agung Republik Indonesia yang
 <p align="center">
   <sub>Dibuat dengan ❤️ untuk tugas UTS Temu Kembali Informasi — Universitas Muhammadiyah Malang © 2026</sub>
 </p>
+
