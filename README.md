@@ -48,8 +48,8 @@ Dataset ini dapat dimanfaatkan untuk berbagai keperluan penelitian di bidang:
 
 | Peran | Nama | NIM |
 |:---:|:---:|:---:|
-| **Anggota 1** | *(Nama Anda)* | *(NIM Anda)* |
-| **Anggota 2** | *(Nama Partner)* | *(NIM Partner)* |
+| **Anggota 1** | Akhmad Zamri Ardani | 202310370311406 |
+| **Anggota 2** | Muchammad Rifqi Dzaki Arrafi | 202310370311441 |
 
 > **Mata Kuliah:** Temu Kembali Informasi (TKI)  
 > **Dosen Pengampu:** Galih W. W  
