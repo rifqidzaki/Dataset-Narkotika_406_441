@@ -80,20 +80,24 @@ Seluruh dokumen putusan bersumber dari **Direktori Putusan Mahkamah Agung Republ
 Dataset-Narkotika_406_441/
 │
 ├── 📂 Dataset/
-│   └── Narkotika.zip              # Arsip berisi 5 dokumen putusan (.pdf)
+│   ├── Narkotika_Manual.zip        # Arsip 5 dokumen putusan (akuisisi manual)
+│   └── Narkotika_Crawling.zip      # Arsip 50 dokumen putusan (hasil crawling) — *segera ditambahkan*
 │
 ├── 📂 Overview/
-│   └── Overview.xlsx              # Rekap ringkasan seluruh putusan
+│   ├── Overview_Manual.xlsx        # Rekap 5 putusan (akuisisi manual)
+│   └── Overview_Crawling.xlsx      # Rekap 50 putusan (hasil crawling) — *segera ditambahkan*
 │
-└── 📄 README.md                   # Dokumentasi repository (file ini)
+└── 📄 README.md                    # Dokumentasi repository (file ini)
 ```
 
 ### Detail Isi Folder
 
 | Folder/File | Deskripsi |
 |:---|:---|
-| `Dataset/Narkotika.zip` | File arsip ZIP yang berisi seluruh dokumen putusan pengadilan dalam format PDF |
-| `Overview/Overview.xlsx` | Spreadsheet berisi ringkasan data dari seluruh putusan, meliputi No Putusan, Lembaga Peradilan, Barang Bukti, dan Amar Putusan |
+| `Dataset/Narkotika_Manual.zip` | Arsip ZIP berisi 5 dokumen putusan yang dikumpulkan secara **manual** |
+| `Dataset/Narkotika_Crawling.zip` | Arsip ZIP berisi 50 dokumen putusan hasil **web crawling** *(segera ditambahkan)* |
+| `Overview/Overview_Manual.xlsx` | Spreadsheet ringkasan 5 putusan dari akuisisi **manual** |
+| `Overview/Overview_Crawling.xlsx` | Spreadsheet ringkasan 50 putusan dari **crawling** *(segera ditambahkan)* |
 | `README.md` | Dokumentasi lengkap mengenai dataset, metodologi, dan cara penggunaan |
 
 ---
