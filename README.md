@@ -81,11 +81,11 @@ Dataset-Narkotika_406_441/
 │
 ├── 📂 Dataset/
 │   ├── Narkotika_Manual.zip        # Arsip 5 dokumen putusan (akuisisi manual)
-│   └── Narkotika_Crawling.zip      # Arsip 50 dokumen putusan (hasil crawling) — *segera ditambahkan*
+│   └── Narkotika_Crawling.zip      # Arsip 50 dokumen putusan (hasil crawling) 
 │
 ├── 📂 Overview/
 │   ├── Overview_Manual.xlsx        # Rekap 5 putusan (akuisisi manual)
-│   └── Overview_Crawling.xlsx      # Rekap 50 putusan (hasil crawling) — *segera ditambahkan*
+│   └── Overview_Crawling.xlsx      # Rekap 50 putusan (hasil crawling)
 │
 └── 📄 README.md                    # Dokumentasi repository (file ini)
 ```
